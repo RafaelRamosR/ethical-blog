@@ -1,0 +1,57 @@
+[
+  {
+    "category": "ética de lo público",
+    "articles": [
+      {
+        "title": "la individualización de las normas morales y el proceder inherente de las costumbres",
+        "subtitle": "Generalidades de la ética",
+        "url": "/la-individualizacion-de-las-normas-morales-y-el-proceder-inherente-de-las-costumbres"
+      },
+      {
+        "title": "assassin's creed",
+        "subtitle": "ética de lo público",
+        "url": "/assassins-creed"
+      },
+      {
+        "title": "una mirada a la ética, valores y moral en la región: la corrupción como valor inherente de la costa colombiana",
+        "subtitle": "primer parcial",
+        "url": "/una-mirada-a-la-etica-valores-y-moral-en-la-region-la-corrupcion-como-valor-inherente-de-la-costa-colombiana"
+      }
+    ]
+  },
+  {
+    "category": "ética profesional",
+    "articles": [
+      {
+        "title": "monólogo sobre la ética profesional",
+        "subtitle": "ética profesional",
+        "url": "/monologo-sobre-la-etica-profesional"
+      },
+      {
+        "title": "caso de estudio",
+        "subtitle": "Casos éticos",
+        "url": "/caso-de-estudio"
+      },
+      {
+        "title": "una mirada a la ética e instituciones de la región: los cadáveres de la unilibre",
+        "subtitle": "segundo parcial",
+        "url": "/una-mirada-a-la-etica-e-instituciones-de-la-region-los-cadaveres-de-la-unilibre"
+      }
+    ]
+  },
+  {
+    "category": "ética informática",
+    "articles": [
+      {
+        "title": "tecnoética",
+        "subtitle": "ética y tecnología",
+        "url": "/tecnoetica"
+      },
+      {
+        "title": "un poco de ética e informática",
+        "subtitle": "tercer parcial",
+        "url": "/un-poco-de-etica-e-informatica"
+      }
+    ]
+  }
+]
