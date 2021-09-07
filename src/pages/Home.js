@@ -1,3 +1,4 @@
+import { Link } from 'wouter';
 import { Container } from '../components';
 import blogData from "../blog/data.json";
 
@@ -16,7 +17,7 @@ export const Home = () => {
                     <div>
                       <h3>{ article.title }</h3>
                       <p>{ article.subtitle }</p>
-                      <a href={`/article${article.url}`}> Ver más</a>
+                      <Link href={`/article${article.url}`}>Ver más</Link>
                     </div>
                   ))
                 }
