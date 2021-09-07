@@ -8,11 +8,11 @@ Lewis le indica al dueño que no es ni legal ni correcto instalar software sin l
 
 Ronald le responde que ese cliente es uno de los más importantes para la empresa, y que el cliente no estaba interesado en comprar el programa. Sin embargo, él mismo le prometió al cliente que de todas formas se lo instalaría, y que no tenía que preocuparse por nada porque él se haría a sí mismo responsable.
 
-**1.** *¿Qué debería hacer Lewis en este caso?*
+**1.** *¿Qué debería hacer Lewis en este caso?* \
 Considerar qué hace con su vida e investigar mejor a una empresa antes de enviar su hoja vida, todo eso aparte de renunciar.
 
-**2.** *¿Podría negarse a instalar el programa, sabiendo explícitamente que la licencia que tiene es ilegal?*
+**2.** *¿Podría negarse a instalar el programa, sabiendo explícitamente que la licencia que tiene es ilegal?* \
 Sí.
 
-**3.** *¿Cuáles podrían ser las consecuencias tanto si lo instala como si no lo instala?*
+**3.** *¿Cuáles podrían ser las consecuencias tanto si lo instala como si no lo instala?* \
 En el peor de los casos pagar una multa millonaria por el uso ilegal de software sin licencia. En el mejor de los casos que lo echen de la empresa y consiga un mejor trabajo o uno menos malo.
