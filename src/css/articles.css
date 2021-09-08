@@ -1,0 +1,15 @@
+.btn-back {
+  position: fixed;
+  right: 5%;
+  bottom: 5%;
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-weight: 600;
+  padding: 1rem;
+  border-radius: 25px;
+}
+
+.btn-back:hover {
+  background-color: black;
+}
