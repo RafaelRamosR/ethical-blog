@@ -1,16 +1,12 @@
 import { Route } from "wouter";
-
-const Page1 = () => <h1>Page 1</h1>
-const Page2 = () => <h1>Page 2</h1>
+import { Home } from "../pages/Home";
+import { Article } from "../pages/Article";
 
 function App() {
   return (
     <>
-      <Route path="/users/:name">
-        {(params) => <div>Hello, {params.name}!</div>}
-      </Route>
-      <Route path="/" component={Page1} />
-      <Route path="/page2" component={Page2} />
+      <Route path="/" component={Home} />
+      <Route path="/article/:article" component={Article} />
     </>
   );
 }

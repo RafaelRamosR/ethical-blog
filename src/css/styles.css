@@ -1,0 +1,132 @@
+body {
+  font-family: Lato;
+  background-color: #f3f3f3;
+  height: 100vh;
+}
+
+.title {
+  width: 100%;
+  color: rgba(24, 24, 24, 0.75);
+  text-transform: uppercase;
+  font-size: 1.2rem;
+}
+
+.category {
+  margin-bottom: 2rem;
+}
+
+.container-lg,
+.container-md {
+  width: 90%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.container-md {
+  max-width: 720px;
+}
+
+.cards {
+  display: grid;
+  justify-items: center;
+  row-gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+}
+
+.card {
+  display: flex;
+  gap: 1rem;
+  width: 80%;
+  max-width: 300px;
+  padding: 1rem;
+  border-radius: 1rem;
+  border: solid 2px rgb(0, 0, 0);
+  background-color: #fff;
+  /* a property */
+  text-decoration: none;
+  color: inherit;
+}
+
+.card___icon {
+  width: 20%;
+  max-width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card__content {
+  width: 80%;
+  max-width: 250px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card__title {
+  font-size: 1rem;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card__subtitle {
+  font-size: 0.8rem;
+  margin: 0;
+}
+
+.card__title::first-letter,
+.card__subtitle::first-letter {
+  text-transform: uppercase;
+}
+
+/*
+  Markdown
+*/
+
+h1 {
+  color: rgba(0, 0, 0, 0.75);
+  font-family: Lato, Helvetica, sans-serif;
+  font-size: 28px;
+  text-align: center;
+}
+
+h1:after {
+  content: '';
+  display: block;
+  position: relative;
+  top: 0.33em;
+  border-bottom: 1px solid hsla(0, 0%, 50%, 0.33);
+}
+
+p {
+  box-sizing: border-box;
+  color: rgba(24, 24, 24, 0.75);
+  font-family: Lato, Helvetica Neue, Helvetica, sans-serif;
+  font-size: 18px;
+  font-variant-ligatures: common-ligatures;
+  line-height: 30.0667px;
+  margin-bottom: 21.6px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 21.6px;
+  tab-size: 4;
+  text-rendering: auto
+}
+
+strong {
+  box-sizing: border-box;
+  color: rgba(0, 0, 0, 0.75);
+  font-family: Lato, Helvetica Neue, Helvetica, sans-serif;
+  font-size: 18px;
+  font-variant-ligatures: common-ligatures;
+  font-weight: 700;
+  line-height: 30.0667px;
+  tab-size: 4;
+  text-rendering: auto
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
