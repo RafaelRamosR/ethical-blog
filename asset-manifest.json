@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ethical-blog/static/css/main.582c7059.chunk.css",
+    "main.js": "/ethical-blog/static/js/main.135d3c51.chunk.js",
+    "main.js.map": "/ethical-blog/static/js/main.135d3c51.chunk.js.map",
+    "runtime-main.js": "/ethical-blog/static/js/runtime-main.df922f30.js",
+    "runtime-main.js.map": "/ethical-blog/static/js/runtime-main.df922f30.js.map",
+    "static/js/2.0515c6f9.chunk.js": "/ethical-blog/static/js/2.0515c6f9.chunk.js",
+    "static/js/2.0515c6f9.chunk.js.map": "/ethical-blog/static/js/2.0515c6f9.chunk.js.map",
+    "index.html": "/ethical-blog/index.html",
+    "static/css/main.582c7059.chunk.css.map": "/ethical-blog/static/css/main.582c7059.chunk.css.map",
+    "static/js/2.0515c6f9.chunk.js.LICENSE.txt": "/ethical-blog/static/js/2.0515c6f9.chunk.js.LICENSE.txt",
+    "static/media/assassins-creed.f504dd7c.md": "/ethical-blog/static/media/assassins-creed.f504dd7c.md",
+    "static/media/caso-de-estudio.16c33d38.md": "/ethical-blog/static/media/caso-de-estudio.16c33d38.md",
+    "static/media/la-individualizacion-de-las-normas-morales-y-el-proceder-inherente-de-las-costumbres.78d8aed3.md": "/ethical-blog/static/media/la-individualizacion-de-las-normas-morales-y-el-proceder-inherente-de-las-costumbres.78d8aed3.md",
+    "static/media/monologo-sobre-la-etica-profesional.678fef3a.md": "/ethical-blog/static/media/monologo-sobre-la-etica-profesional.678fef3a.md",
+    "static/media/tecnoetica.a8ab95d2.md": "/ethical-blog/static/media/tecnoetica.a8ab95d2.md",
+    "static/media/un-poco-de-etica-e-informatica.749cbf15.md": "/ethical-blog/static/media/un-poco-de-etica-e-informatica.749cbf15.md",
+    "static/media/una-mirada-a-la-etica-e-instituciones-de-la-region-los-cadaveres-de-la-unilibre.1a942893.md": "/ethical-blog/static/media/una-mirada-a-la-etica-e-instituciones-de-la-region-los-cadaveres-de-la-unilibre.1a942893.md",
+    "static/media/una-mirada-a-la-etica-valores-y-moral-en-la-region-la-corrupcion-como-valor-inherente-de-la-costa-colombiana.cac78ff1.md": "/ethical-blog/static/media/una-mirada-a-la-etica-valores-y-moral-en-la-region-la-corrupcion-como-valor-inherente-de-la-costa-colombiana.cac78ff1.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df922f30.js",
+    "static/js/2.0515c6f9.chunk.js",
+    "static/css/main.582c7059.chunk.css",
+    "static/js/main.135d3c51.chunk.js"
+  ]
+}
