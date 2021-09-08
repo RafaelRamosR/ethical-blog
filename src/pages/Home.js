@@ -6,7 +6,7 @@ import fileIcon from '../assets/file.png';
 export const Home = () => {
   return (
     <Container col="lg">
-      <h1>Blog de ética</h1>
+      <h1>Compendio de ética</h1>
         {
           blogData.map((blog, key) => {
             return (
@@ -19,7 +19,7 @@ export const Home = () => {
                         className="card"
                         href={`/article${article.url}`}
                         key={key}
-                        title={ article.title }
+                        title={ article.title.toUpperCase() }
                       >
                         <div className="card___icon">
                           <img src={fileIcon} width="30" alt="file icon" />
