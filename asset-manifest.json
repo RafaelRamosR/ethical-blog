@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ethical-blog/static/css/main.582c7059.chunk.css",
-    "main.js": "/ethical-blog/static/js/main.135d3c51.chunk.js",
-    "main.js.map": "/ethical-blog/static/js/main.135d3c51.chunk.js.map",
+    "main.js": "/ethical-blog/static/js/main.40c057ca.chunk.js",
+    "main.js.map": "/ethical-blog/static/js/main.40c057ca.chunk.js.map",
     "runtime-main.js": "/ethical-blog/static/js/runtime-main.df922f30.js",
     "runtime-main.js.map": "/ethical-blog/static/js/runtime-main.df922f30.js.map",
-    "static/js/2.0515c6f9.chunk.js": "/ethical-blog/static/js/2.0515c6f9.chunk.js",
-    "static/js/2.0515c6f9.chunk.js.map": "/ethical-blog/static/js/2.0515c6f9.chunk.js.map",
+    "static/js/2.80f0c37b.chunk.js": "/ethical-blog/static/js/2.80f0c37b.chunk.js",
+    "static/js/2.80f0c37b.chunk.js.map": "/ethical-blog/static/js/2.80f0c37b.chunk.js.map",
     "index.html": "/ethical-blog/index.html",
     "static/css/main.582c7059.chunk.css.map": "/ethical-blog/static/css/main.582c7059.chunk.css.map",
-    "static/js/2.0515c6f9.chunk.js.LICENSE.txt": "/ethical-blog/static/js/2.0515c6f9.chunk.js.LICENSE.txt",
+    "static/js/2.80f0c37b.chunk.js.LICENSE.txt": "/ethical-blog/static/js/2.80f0c37b.chunk.js.LICENSE.txt",
     "static/media/assassins-creed.f504dd7c.md": "/ethical-blog/static/media/assassins-creed.f504dd7c.md",
     "static/media/caso-de-estudio.16c33d38.md": "/ethical-blog/static/media/caso-de-estudio.16c33d38.md",
     "static/media/la-individualizacion-de-las-normas-morales-y-el-proceder-inherente-de-las-costumbres.78d8aed3.md": "/ethical-blog/static/media/la-individualizacion-de-las-normas-morales-y-el-proceder-inherente-de-las-costumbres.78d8aed3.md",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.df922f30.js",
-    "static/js/2.0515c6f9.chunk.js",
+    "static/js/2.80f0c37b.chunk.js",
     "static/css/main.582c7059.chunk.css",
-    "static/js/main.135d3c51.chunk.js"
+    "static/js/main.40c057ca.chunk.js"
   ]
 }
