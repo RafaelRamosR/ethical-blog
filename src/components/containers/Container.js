@@ -1,5 +1,5 @@
-const Container = ({ children }) => (
-  <div className="container">
+const Container = ({ children, col }) => (
+  <div className={`container-${col}`}>
     { children }
   </div>
 );
