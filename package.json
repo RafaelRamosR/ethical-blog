@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Blog with react JS and markdown - Ethics homework ",
   "author": "Rafael Ramos",
+  "private": false,
   "license": "MIT",
   "homepage": "https://rafaelramosr.github.io/ethical-blog",
   "scripts": {
