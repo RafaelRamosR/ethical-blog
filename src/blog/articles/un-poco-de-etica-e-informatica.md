@@ -46,14 +46,14 @@ La COPNIA (Consejo Profesional Nacional de Ingeniería), entidad pública que ti
 La informática nació para resolver problemas por medio de la automatización y los servicios digitales. Por lo que podría decirse que sus mayores aspectos negativos son aquellos que contradicen sus objetivos, aquellos que en lugar de buscar una solución crean un problema como los virus informáticos o los delitos informáticos, todo aquello que atenta contra la ética de la informática.
 
 ## Referencias
-**[1]** Skilling, H. H. (1971). Historical perspective for electrical engineering education. _Proceedings of the IEEE_, _59_(6), 828-833.
-**[2]** Terman, F. E. (1976). A brief history of electrical engineering education. _Proceedings of the IEEE_, _64_(9), 1399-1407.
-**[3]** Walker, E. A. (1971). The major problems facing engineering education. _Proceedings of the IEEE_, _59_(6), 823-828.
-**[4]** Sloan, M. E. (1978). The impact of digital technology on electrical engineering education. _Proceedings of the IEEE_, _66_(8), 880-885.
-**[5]** Atchison, W. F., Conte, S. D., Hamblen, J. W., Hull, T. E., Keenan, T. A., Kehl, W. B., & Young Jr, D. M. (1968). Curriculum 68: Recommendations for academic programs in computer science: a report of the ACM curriculum committee on computer science. _Communications of the ACM_, _11_(3), 151-197.
-**[6]** Booth, T. L. (1984). Computer education. _Computer_, _17_(10), 57-68.
-**[7]** _La Ingeniería Informática_. (s. f.). COITIC. Recuperado 5 de septiembre de 2021, de https://coitic.es/la-ingenieria-informatica
-**[8]** _Perfil ingeniería telecomunicaciones_. (s. f.). UTCH. Recuperado 6 de septiembre de 2021, de https://www.utch.edu.co/nueva/perfiles-ingenieria-telecomunicaciones
-**[9]** _Presentación programa de ingeniería telecomunicaciones_. (s. f.). UTCH. Recuperado 6 de septiembre de 2021, de https://www.utch.edu.co/nueva/presentaci%C3%B3n-programa-ingenieria-telecomunicaciones
-**[10]** _Ley 842 de 2003 | Copnia_. (s. f.). COPNIA. Recuperado 7 de septiembre de 2021, de https://www.copnia.gov.co/nuestra-entidad/normatividad/ley-842-de-2003
+**[1]** Skilling, H. H. (1971). Historical perspective for electrical engineering education. _Proceedings of the IEEE_, _59_(6), 828-833. \
+**[2]** Terman, F. E. (1976). A brief history of electrical engineering education. _Proceedings of the IEEE_, _64_(9), 1399-1407. \
+**[3]** Walker, E. A. (1971). The major problems facing engineering education. _Proceedings of the IEEE_, _59_(6), 823-828. \
+**[4]** Sloan, M. E. (1978). The impact of digital technology on electrical engineering education. _Proceedings of the IEEE_, _66_(8), 880-885. \
+**[5]** Atchison, W. F., Conte, S. D., Hamblen, J. W., Hull, T. E., Keenan, T. A., Kehl, W. B., & Young Jr, D. M. (1968). Curriculum 68: Recommendations for academic programs in computer science: a report of the ACM curriculum committee on computer science. _Communications of the ACM_, _11_(3), 151-197. \
+**[6]** Booth, T. L. (1984). Computer education. _Computer_, _17_(10), 57-68. \
+**[7]** _La Ingeniería Informática_. (s. f.). COITIC. Recuperado 5 de septiembre de 2021, de https://coitic.es/la-ingenieria-informatica \
+**[8]** _Perfil ingeniería telecomunicaciones_. (s. f.). UTCH. Recuperado 6 de septiembre de 2021, de https://www.utch.edu.co/nueva/perfiles-ingenieria-telecomunicaciones \
+**[9]** _Presentación programa de ingeniería telecomunicaciones_. (s. f.). UTCH. Recuperado 6 de septiembre de 2021, de https://www.utch.edu.co/nueva/presentaci%C3%B3n-programa-ingenieria-telecomunicaciones \
+**[10]** _Ley 842 de 2003 | Copnia_. (s. f.). COPNIA. Recuperado 7 de septiembre de 2021, de https://www.copnia.gov.co/nuestra-entidad/normatividad/ley-842-de-2003 \
 **[11]**  _Código de ética | Copnia_. (s. f.). COPNIA. Recuperado 8 de septiembre de 2021, de https://www.copnia.gov.co/tribunal-de-etica/codigo-de-etica
